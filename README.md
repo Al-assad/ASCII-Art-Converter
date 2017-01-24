@@ -12,7 +12,14 @@
 使用指定的字符替换图片中单位区域的像素点，可自定义字符大小和是否使用全图提取背景色；
 
 ###样张 
-
+<img src="sample/捕获.png" width="500">
+<img src="sample/sample1.png" width="200">
+<img src="sample/sample1-1.png" width="200">
+<img src="sample/sample1-2.png" width="200">
+<img src="sample/sample1-3.png" width="200">
+<img src="sample/sample2.png" width="600">
+<img src="sample/sample2-1.png" width="600">
+<img src="sample/sample2-2.png" width="600">
 
 ###TODO
 * 读取文件文本素材，使用文件文本作为打印字符字符集；  
