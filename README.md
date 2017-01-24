@@ -14,9 +14,9 @@
 ###样张 
 <img src="sample/捕获.PNG" width="500"><br/>
 <img src="sample/sample2.jpg" width="200">
-<img src="sample/sample1-1.png" width="200">
-<img src="sample/sample1-2.png" width="200">
-<img src="sample/sample1-3.png" width="200">
+<img src="sample/sample1-1.png" width="250">
+<img src="sample/sample1-2.png" width="250">
+<img src="sample/sample1-3.png" width="250">
 
 ###TODO
 * 读取文件文本素材，使用文件文本作为打印字符字符集；  
