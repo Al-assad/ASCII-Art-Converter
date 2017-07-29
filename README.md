@@ -1,5 +1,5 @@
 # ASCII-Art-Converter  
-##字符画转化器
+## 字符画转化器
 
 ### 依赖环境  
 * Java8  
@@ -18,7 +18,3 @@
 <img src="sample/sample1-2.png" width="250">
 <img src="sample/sample1-3.png" width="250">
 
-### TODO
-* 读取文件文本素材，使用文件文本作为打印字符字符集；  
-* 增加字符转化进度监听线程，并提供外部调用接口；  
-* 改用多线程重构字符转化模块，提高转化效率；  
