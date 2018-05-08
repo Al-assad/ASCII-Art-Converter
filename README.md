@@ -12,9 +12,9 @@
 使用指定的字符替换图片中单位区域的像素点，可自定义字符大小和是否使用全图提取背景色；
 
 ### 样张 
-<img src="sample/捕获.PNG" width="500"><br/>
-<img src="sample/sample2.jpg" width="200"><br/>
-<img src="sample/sample1-1.png" width="250">
-<img src="sample/sample1-2.png" width="250">
-<img src="sample/sample1-3.png" width="250">
+<img src="http://wx2.sinaimg.cn/mw690/e2ce1edfgy1fr3vls2l0mj20xu0rcgn4.jpg" width="500"><br/>
+<img src="http://wx1.sinaimg.cn/mw690/e2ce1edfgy1fr3vlrvoigj20go0nxjtx.jpg" width="200"><br/>
+<img src="http://wx2.sinaimg.cn/mw690/e2ce1edfgy1fr3vlsm2q8j20go0nxk06.jpg" width="250">
+<img src="http://wx2.sinaimg.cn/mw690/e2ce1edfgy1fr3vls8kl0j20gi0nodm5.jpg" width="250">
+<img src="http://wx3.sinaimg.cn/mw690/e2ce1edfgy1fr3vlsmjibj20gj0mmjv6.jpg" width="250">
 
