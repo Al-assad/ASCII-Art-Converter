@@ -13,8 +13,8 @@
 
 ### 样张 
 <img src="http://wx2.sinaimg.cn/mw690/e2ce1edfgy1fr3vls2l0mj20xu0rcgn4.jpg" width="500"><br/>
-<img src="http://wx1.sinaimg.cn/mw690/e2ce1edfgy1fr3vlrvoigj20go0nxjtx.jpg" width="200"><br/>
-<img src="http://wx2.sinaimg.cn/mw690/e2ce1edfgy1fr3vlsm2q8j20go0nxk06.jpg" width="250">
-<img src="http://wx2.sinaimg.cn/mw690/e2ce1edfgy1fr3vls8kl0j20gi0nodm5.jpg" width="250">
-<img src="http://wx3.sinaimg.cn/mw690/e2ce1edfgy1fr3vlsmjibj20gj0mmjv6.jpg" width="250">
+<img src="http://wx1.sinaimg.cn/mw690/e2ce1edfgy1fr3vlrvoigj20go0nxjtx.jpg" width="400"><br/>
+<img src="http://wx2.sinaimg.cn/mw690/e2ce1edfgy1fr3vlsm2q8j20go0nxk06.jpg" width="300">
+<img src="http://wx2.sinaimg.cn/mw690/e2ce1edfgy1fr3vls8kl0j20gi0nodm5.jpg" width="300">
+<img src="http://wx3.sinaimg.cn/mw690/e2ce1edfgy1fr3vlsmjibj20gj0mmjv6.jpg" width="300">
 
